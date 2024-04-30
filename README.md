@@ -42,6 +42,5 @@ Para usar o projeto, você precisa primeiro iniciar o turtlesim_node e depois ex
 Este comando iniciará o processo de desenho no turtlesim, onde a tartaruga irá desenhar uma figura geométrica especificada no código.
 
 ## Demonstração
-## Demonstração
 
 Para uma demonstração completa do funcionamento do sistema, veja o vídeo neste link: [Vídeo Demonstrativo](https://drive.google.com/drive/u/0/folders/1Rm0VATMWQFxST1yjlcKmXPKAZ0auyAKW?q=type:video%20parent:1Rm0VATMWQFxST1yjlcKmXPKAZ0auyAKW%20sharedwith:public)
